@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: roliveira
 Implementation-Version: 1.0.0.1
-Built-By: cgm9275
+Built-By: Tiago
 Implementation-Vendor-Id: org.springframework
-Build-Jdk: 1.8.0_131
+Build-Jdk: 1.8.0_144
 Implementation-URL: http://projects.spring.io/spring-boot/roliveira/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
